@@ -13,7 +13,7 @@
   "keywords": [
     "pathfinder"
   ],
-  "author": "Kenneth Williams",
+  "author": "Kenneth Williams <scriptdaemon@gmail.com>",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/scriptdaemon/pilgrim-plugin-core/issues"
