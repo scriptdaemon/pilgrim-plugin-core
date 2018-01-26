@@ -2,25 +2,18 @@
   "name": "pilgrim-plugin-core-rulebook",
   "version": "0.0.0",
   "description": "Pathfinder Core Rulebook plugin for the Pilgrim character creation library.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/scriptdaemon/pilgrim-plugin-core-rulebook.git"
-  },
   "keywords": [
     "pathfinder"
   ],
-  "author": "Kenneth Williams <scriptdaemon@gmail.com>",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/scriptdaemon/pilgrim-plugin-core-rulebook/issues"
-  },
   "homepage": "https://github.com/scriptdaemon/pilgrim-plugin-core-rulebook#readme",
+  "bugs": "https://github.com/scriptdaemon/pilgrim-plugin-core-rulebook/issues",
+  "license": "UNLICENSED",
+  "author": "Kenneth Williams <scriptdaemon@gmail.com>",
+  "main": "index.js",
+  "repository": "scriptdaemon/pilgrim-plugin-core-rulebook",
   "engines": {
     "node": ">=6.9.0",
     "npm": ">=3.10.8"
   }
 }
+
